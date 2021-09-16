@@ -29,3 +29,9 @@ Porto Alegre, Rio Grande do Sul, Brazil
 Av. Dr. Nilo Peçanha, 1500, Sala 16  
 Boa Vista, Porto Alegre - RS  
 CEP 91.330-002
+
+### 🧮 What the name "On2" means?
+On2 = Order of `n` squared.  
+This is a formula that determines how complex an algorithm is.  
+This is also known as [The big O notation](https://en.wikipedia.org/wiki/Big_O_notation).  
+
