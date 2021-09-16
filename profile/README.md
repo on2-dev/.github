@@ -1,6 +1,6 @@
 ## Hi, we are On2 👋
 
-![On2 Logo and slogan - Tech Product Makers](./on2-dev.png)
+![On2 Logo and slogan - Tech Product Makers](https://github.com/on2-dev/.github/blob/master/profile/on2-dev.png)
 
 On2 is Brazilian software house that helps companies to build their products using bleeding-edge technologies.
 
