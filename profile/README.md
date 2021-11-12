@@ -2,7 +2,8 @@
 
 ![On2 Logo and slogan - Tech Product Makers](https://github.com/on2-dev/.github/blob/master/profile/on2-dev.png)
 
-On2 is Brazilian software house that helps companies to build their products using bleeding-edge technologies.
+On2 is Brazilian software house that helps companies to build their products using bleeding-edge technologies.  
+We have opening positions: https://github.com/on2-dev/jobs/blob/main/README.md
 
 ### 💻 Technology as a cornerstone
 Technology is the foundation for innovation.  
